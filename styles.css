@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:navajowhite;
+    font-size: 20px;
+}
+h1{
+    color: #c85656;
+    text-align: center;
+    font-size: 90px;
+}
+p{
+    color: rgb(228, 86, 86);
+    background-color: rgb(241 211 211);
+    padding: 5px;
+    margin: 6px auto;
+    width: fit-content;
+}
+video{
+    background-color: black;
+    display: block;
+    margin: 6px auto;
+    width: 420px;
+    height: 240px;
+}
+audio {
+    display: block;
+    margin: 6px auto;
+}
